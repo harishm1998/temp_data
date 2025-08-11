@@ -825,3 +825,7 @@ Monitoring stopped by user. Goodbye! 👋
 2025-08-11 16:59:21,641 - INFO - Initial startup. Current commit: 44fbf478fb7828c91a560c80bae58f2ab948f2c6
 2025-08-11 16:59:21,641 - INFO - No new ZIP files to process.
 2025-08-11 16:59:21,642 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 17:00:22,981 - INFO - --- Starting new check cycle ---
+2025-08-11 17:00:23,814 - INFO - ✅ Repository UPDATED! New commit: cff32a4e1c922da353ab86bd18e473a822da727d
+2025-08-11 17:00:23,814 - INFO - No new ZIP files to process.
+2025-08-11 17:00:23,814 - INFO - Sleeping for 60 seconds... 😴
