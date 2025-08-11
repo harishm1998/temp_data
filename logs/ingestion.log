@@ -787,3 +787,9 @@ Copied:
 2025-08-11 16:45:29,062 - INFO - No commit changes detected. Skipping repository pull check.
 2025-08-11 16:46:29,062 - INFO - --- Starting new check cycle ---
 2025-08-11 16:46:29,660 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:47:29,660 - INFO - --- Starting new check cycle ---
+2025-08-11 16:47:30,237 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:48:30,237 - INFO - --- Starting new check cycle ---
+2025-08-11 16:48:31,093 - INFO - ✅ Repository UPDATED! New commit: 69c5d333241505149f1e6cef2dc25ae4bd461bd7
+2025-08-11 16:48:31,093 - INFO - No new ZIP files to process.
+2025-08-11 16:48:31,093 - INFO - Sleeping for 60 seconds... 😴
