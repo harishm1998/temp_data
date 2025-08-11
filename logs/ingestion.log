@@ -1,0 +1,787 @@
+2025-08-11 14:53:30,105 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 14:53:30,108 - INFO - Current time (UTC): 2025-08-11 09:23:30
+2025-08-11 14:53:30,108 - INFO - --- Starting new check cycle ---
+2025-08-11 14:53:31,089 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 14:53:31,089 - INFO - New ZIP files to process: 20250810.zip, 20250807.zip, 20250809.zip, 20250808.zip
+2025-08-11 14:53:31,282 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_145331
+2025-08-11 14:53:31,282 - INFO - Processing new file: 20250807.zip
+2025-08-11 14:53:31,287 - CRITICAL - Error in monitoring loop: name 'paramiko' is not defined
+2025-08-11 14:53:31,287 - INFO - Retrying after a 30-second delay...
+2025-08-11 14:54:06,563 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 14:54:06,564 - INFO - Current time (UTC): 2025-08-11 09:24:06
+2025-08-11 14:54:06,565 - INFO - --- Starting new check cycle ---
+2025-08-11 14:54:07,129 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 14:54:07,129 - INFO - New ZIP files to process: 20250809.zip, 20250807.zip, 20250810.zip, 20250808.zip
+2025-08-11 14:54:07,169 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_145407
+2025-08-11 14:54:07,169 - INFO - Processing new file: 20250807.zip
+2025-08-11 14:54:07,190 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 14:54:07,294 - INFO - Authentication (password) successful!
+2025-08-11 14:54:07,416 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 14:54:07,425 - INFO - [chan 0] sftp session closed.
+2025-08-11 14:54:07,426 - ERROR - Unexpected error: unconverted data remains: 7
+2025-08-11 14:54:07,426 - INFO - All files processed and upload complete.
+2025-08-11 14:54:07,426 - CRITICAL - Error in monitoring loop: name 'folder' is not defined
+2025-08-11 14:54:07,426 - INFO - Retrying after a 30-second delay...
+2025-08-11 14:56:17,271 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 14:56:17,271 - INFO - Current time (UTC): 2025-08-11 09:26:17
+2025-08-11 14:56:17,271 - INFO - --- Starting new check cycle ---
+2025-08-11 14:56:17,854 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 14:56:17,854 - INFO - New ZIP files to process: 20250809.zip, 20250810.zip, 20250808.zip, 20250807.zip
+2025-08-11 14:56:17,878 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_145617
+2025-08-11 14:56:17,878 - INFO - Processing new file: 20250807.zip
+2025-08-11 14:56:17,894 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 14:56:17,998 - INFO - Authentication (password) successful!
+2025-08-11 14:56:18,119 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 14:56:18,125 - INFO - [chan 0] sftp session closed.
+2025-08-11 14:56:18,126 - ERROR - Unexpected error: unconverted data remains: 7
+2025-08-11 14:56:18,144 - INFO - All files processed and upload complete.
+2025-08-11 14:56:18,144 - CRITICAL - Error in monitoring loop: name 'folder' is not defined
+2025-08-11 14:56:18,146 - INFO - Retrying after a 30-second delay...
+2025-08-11 15:00:56,306 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:00:56,307 - INFO - Current time (UTC): 2025-08-11 09:30:56
+2025-08-11 15:00:56,307 - INFO - --- Starting new check cycle ---
+2025-08-11 15:00:56,873 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:00:56,873 - INFO - New ZIP files to process: 20250809.zip, 20250810.zip, 20250808.zip, 20250807.zip
+2025-08-11 15:00:56,898 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_150056
+2025-08-11 15:00:56,898 - INFO - Processing new file: 20250807.zip
+2025-08-11 15:00:56,914 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:00:57,017 - INFO - Authentication (password) successful!
+2025-08-11 15:00:57,138 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:00:57,145 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:00:57,146 - ERROR - Unexpected error: unconverted data remains: 7
+2025-08-11 15:00:57,149 - INFO - All files processed and upload complete.
+2025-08-11 15:00:57,149 - CRITICAL - Error in monitoring loop: name 'host' is not defined
+2025-08-11 15:00:57,151 - INFO - Retrying after a 30-second delay...
+2025-08-11 15:03:18,816 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:03:18,817 - INFO - Current time (UTC): 2025-08-11 09:33:18
+2025-08-11 15:03:18,817 - INFO - --- Starting new check cycle ---
+2025-08-11 15:03:19,381 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:03:19,381 - INFO - New ZIP files to process: 10082025.zip, 07082025.zip, 09082025.zip, 08082025.zip
+2025-08-11 15:03:19,504 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_150319
+2025-08-11 15:03:19,504 - INFO - Processing new file: 07082025.zip
+2025-08-11 15:03:19,524 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:03:19,627 - INFO - Authentication (password) successful!
+2025-08-11 15:03:19,839 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:03:19,846 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:03:19,847 - ERROR - Unexpected error: unconverted data remains: 5
+2025-08-11 15:03:19,849 - INFO - All files processed and upload complete.
+2025-08-11 15:03:19,850 - CRITICAL - Error in monitoring loop: name 'host' is not defined
+2025-08-11 15:03:19,852 - INFO - Retrying after a 30-second delay...
+2025-08-11 15:03:39,247 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:03:39,247 - INFO - Current time (UTC): 2025-08-11 09:33:39
+2025-08-11 15:03:39,247 - INFO - --- Starting new check cycle ---
+2025-08-11 15:03:39,824 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:03:39,824 - INFO - New ZIP files to process: 08082025.zip, 10082025.zip, 09082025.zip, 07082025.zip
+2025-08-11 15:03:39,852 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_150339
+2025-08-11 15:03:39,852 - INFO - Processing new file: 07082025.zip
+2025-08-11 15:03:39,871 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:03:39,976 - INFO - Authentication (password) successful!
+2025-08-11 15:03:40,105 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:03:40,112 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:03:40,112 - ERROR - Unexpected error: name 'safe_sftp_mkdir' is not defined
+2025-08-11 15:03:40,114 - INFO - All files processed and upload complete.
+2025-08-11 15:03:40,114 - CRITICAL - Error in monitoring loop: name 'host' is not defined
+2025-08-11 15:03:40,116 - INFO - Retrying after a 30-second delay...
+2025-08-11 15:05:37,438 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:05:37,438 - INFO - Current time (UTC): 2025-08-11 09:35:37
+2025-08-11 15:05:37,439 - INFO - --- Starting new check cycle ---
+2025-08-11 15:05:38,023 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:05:38,023 - INFO - New ZIP files to process: 08082025.zip, 07082025.zip, 09082025.zip, 10082025.zip
+2025-08-11 15:05:38,049 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_150538
+2025-08-11 15:05:38,049 - INFO - Processing new file: 07082025.zip
+2025-08-11 15:05:38,066 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:05:38,170 - INFO - Authentication (password) successful!
+2025-08-11 15:05:38,293 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:05:38,301 - INFO - Renamed: 07082025.zip → 20250807.zip
+2025-08-11 15:05:38,301 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:05:38,302 - ERROR - Unexpected error: name 'zipfile' is not defined
+2025-08-11 15:05:38,303 - INFO - All files processed and upload complete.
+2025-08-11 15:05:38,304 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:05:38,305 - INFO - Processing new file: 08082025.zip
+2025-08-11 15:05:38,321 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:05:38,424 - INFO - Authentication (password) successful!
+2025-08-11 15:05:38,544 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:05:38,545 - INFO - Renamed: 08082025.zip → 20250808.zip
+2025-08-11 15:05:38,545 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:05:38,546 - ERROR - Unexpected error: name 'zipfile' is not defined
+2025-08-11 15:05:38,547 - INFO - All files processed and upload complete.
+2025-08-11 15:05:38,547 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:05:38,549 - INFO - Processing new file: 09082025.zip
+2025-08-11 15:05:38,565 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:05:38,668 - INFO - Authentication (password) successful!
+2025-08-11 15:05:38,786 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:05:38,787 - INFO - Renamed: 09082025.zip → 20250809.zip
+2025-08-11 15:05:38,787 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:05:38,787 - ERROR - Unexpected error: name 'zipfile' is not defined
+2025-08-11 15:05:38,788 - INFO - All files processed and upload complete.
+2025-08-11 15:05:38,789 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:05:38,790 - INFO - Processing new file: 10082025.zip
+2025-08-11 15:05:38,806 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:05:38,908 - INFO - Authentication (password) successful!
+2025-08-11 15:05:39,029 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:05:39,030 - INFO - Renamed: 10082025.zip → 20250810.zip
+2025-08-11 15:05:39,030 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:05:39,031 - ERROR - Unexpected error: name 'zipfile' is not defined
+2025-08-11 15:05:39,032 - INFO - All files processed and upload complete.
+2025-08-11 15:05:39,032 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:05:39,033 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 15:05:41,795 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 15:06:07,343 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:06:07,344 - INFO - Current time (UTC): 2025-08-11 09:36:07
+2025-08-11 15:06:07,344 - INFO - --- Starting new check cycle ---
+2025-08-11 15:06:07,927 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:06:07,927 - INFO - No new ZIP files to process.
+2025-08-11 15:06:07,927 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 15:06:20,291 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 15:24:56,829 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:24:56,829 - INFO - Current time (UTC): 2025-08-11 09:54:56
+2025-08-11 15:24:56,830 - INFO - --- Starting new check cycle ---
+2025-08-11 15:24:57,617 - INFO - Initial startup. Current commit: 17060dbc6a490c786e3719124f62ed3400b7059e
+2025-08-11 15:24:57,618 - INFO - No new ZIP files to process.
+2025-08-11 15:24:57,618 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 15:25:57,618 - INFO - --- Starting new check cycle ---
+2025-08-11 15:25:59,100 - INFO - ✅ Repository UPDATED! New commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 15:25:59,101 - INFO - New ZIP files to process: 12082025.zip, 11082025.zip
+2025-08-11 15:25:59,152 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_152559
+2025-08-11 15:25:59,152 - INFO - Processing new file: 11082025.zip
+2025-08-11 15:25:59,172 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:25:59,276 - INFO - Authentication (password) successful!
+2025-08-11 15:25:59,402 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:25:59,407 - INFO - Renamed: 11082025.zip → 20250811.zip
+2025-08-11 15:25:59,798 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 15:25:59,802 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 15:26:00,428 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 15:26:00,813 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 15:26:00,968 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 15:26:01,358 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 15:26:01,573 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 15:26:01,573 - ERROR - Error removing temporary file 11082025: [Errno 21] Is a directory: '/home/sac/Documents/new_bihar/bihar_flood_Zip/temp_unzip/11082025'
+2025-08-11 15:26:01,573 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:26:01,573 - INFO - All files processed and upload complete.
+2025-08-11 15:26:01,573 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:26:01,574 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 15:26:01,587 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:26:01,647 - INFO - Authentication (publickey) failed.
+2025-08-11 15:26:01,699 - INFO - Authentication (password) successful!
+2025-08-11 15:32:10,837 - INFO - [192.168.2.67] Output: this is targeted date 20250811
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250811
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250811/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_processed_20250811.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/binary_mask_20250811.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_mask_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_float_20250811.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif
+2025-08-11 15:32:10,838 - INFO - merger.sh completed successfully for 20250811.
+2025-08-11 15:32:10,838 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 15:32:10,850 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:32:10,909 - INFO - Authentication (publickey) failed.
+2025-08-11 15:32:11,011 - INFO - Authentication (password) successful!
+2025-08-11 15:32:59,169 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+{'driver': 'GTiff', 'dtype': 'uint8', 'nodata': 255.0, 'width': 32236, 'height': 10661, 'count': 1, 'crs': CRS.from_wkt('GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]'), 'transform': Affine(8.983152841195215e-05, 0.0, 85.21140307419704,
+       0.0, -8.983152841195215e-05, 25.685708581886303), 'blockxsize': 32236, 'blockysize': 1, 'tiled': False, 'interleave': 'band'}
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 15:32:59,170 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 15:32:59,182 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:32:59,241 - INFO - Authentication (publickey) failed.
+2025-08-11 15:32:59,308 - INFO - Authentication (password) successful!
+2025-08-11 15:32:59,551 - ERROR - [192.168.2.136] Error: [sudo] password for sac: sudo: publish: command not found
+2025-08-11 15:32:59,551 - CRITICAL - Error in monitoring loop: name 'log_file_path' is not defined
+2025-08-11 15:32:59,554 - INFO - Retrying after a 30-second delay...
+2025-08-11 15:40:48,040 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:40:48,041 - INFO - Current time (UTC): 2025-08-11 10:10:48
+2025-08-11 15:40:48,041 - INFO - --- Starting new check cycle ---
+2025-08-11 15:40:48,848 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 15:40:48,848 - INFO - New ZIP files to process: 11082025.zip, 12082025.zip
+2025-08-11 15:40:48,998 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_154048
+2025-08-11 15:40:48,998 - INFO - Processing new file: 11082025.zip
+2025-08-11 15:40:49,014 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:40:49,166 - INFO - Authentication (password) successful!
+2025-08-11 15:40:49,294 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:40:49,301 - INFO - Renamed: 11082025.zip → 20250811.zip
+2025-08-11 15:40:50,328 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 15:40:50,332 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 15:40:50,856 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 15:40:51,035 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 15:40:51,200 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 15:40:51,613 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 15:40:51,844 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 15:40:51,844 - ERROR - Error removing temporary file 11082025: [Errno 21] Is a directory: '/home/sac/Documents/new_bihar/bihar_flood_Zip/temp_unzip/11082025'
+2025-08-11 15:40:51,844 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:40:51,844 - ERROR - Unexpected error: unconverted data remains: 1
+2025-08-11 15:40:51,846 - INFO - All files processed and upload complete.
+2025-08-11 15:40:51,846 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:40:51,846 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 15:40:51,862 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:40:51,922 - INFO - Authentication (publickey) failed.
+2025-08-11 15:40:51,973 - INFO - Authentication (password) successful!
+2025-08-11 15:46:07,578 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:46:07,578 - INFO - Current time (UTC): 2025-08-11 10:16:07
+2025-08-11 15:46:07,579 - INFO - --- Starting new check cycle ---
+2025-08-11 15:46:08,205 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 15:46:08,205 - INFO - New ZIP files to process: 12082025.zip, 11082025.zip
+2025-08-11 15:46:08,365 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_154608
+2025-08-11 15:46:08,365 - INFO - Processing new file: 11082025.zip
+2025-08-11 15:46:08,382 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:46:08,536 - INFO - Authentication (password) successful!
+2025-08-11 15:46:08,821 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:46:08,827 - INFO - Renamed: 11082025.zip → 20250811.zip
+2025-08-11 15:46:09,803 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 15:46:09,806 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 15:46:10,359 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 15:46:10,555 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 15:46:10,709 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 15:46:11,120 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 15:46:11,345 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 15:46:11,366 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:46:11,367 - ERROR - Unexpected error: unconverted data remains: 1
+2025-08-11 15:46:11,369 - INFO - All files processed and upload complete.
+2025-08-11 15:46:11,369 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:46:11,369 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 15:46:11,382 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:46:11,440 - INFO - Authentication (publickey) failed.
+2025-08-11 15:46:11,492 - INFO - Authentication (password) successful!
+2025-08-11 15:46:18,094 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 15:49:03,606 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 15:49:03,606 - INFO - Current time (UTC): 2025-08-11 10:19:03
+2025-08-11 15:49:03,606 - INFO - --- Starting new check cycle ---
+2025-08-11 15:49:04,296 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 15:49:04,296 - INFO - New ZIP files to process: 11082025.zip, 12082025.zip
+2025-08-11 15:49:04,338 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_154904
+2025-08-11 15:49:04,338 - INFO - Processing new file: 11082025.zip
+2025-08-11 15:49:04,359 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:49:04,510 - INFO - Authentication (password) successful!
+2025-08-11 15:49:04,783 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 15:49:04,791 - INFO - Renamed: 11082025.zip → 20250811.zip
+2025-08-11 15:49:05,169 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 15:49:05,178 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 15:49:05,779 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 15:49:05,993 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 15:49:06,175 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 15:49:06,657 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 15:49:06,916 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 15:49:07,254 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 15:49:07,257 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 15:49:07,805 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 15:49:07,983 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 15:49:08,143 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 15:49:08,552 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 15:49:08,779 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 15:49:08,803 - INFO - [chan 0] sftp session closed.
+2025-08-11 15:49:08,803 - INFO - All files processed and upload complete.
+2025-08-11 15:49:08,803 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 15:49:08,803 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 15:49:08,816 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:49:08,875 - INFO - Authentication (publickey) failed.
+2025-08-11 15:49:08,927 - INFO - Authentication (password) successful!
+2025-08-11 15:55:02,464 - INFO - [192.168.2.67] Output: this is targeted date 20250811
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250811
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250811/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_processed_20250811.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/binary_mask_20250811.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_mask_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_float_20250811.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif
+2025-08-11 15:55:02,464 - INFO - merger.sh completed successfully for 20250811.
+2025-08-11 15:55:02,464 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 15:55:02,475 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:55:02,531 - INFO - Authentication (publickey) failed.
+2025-08-11 15:55:02,583 - INFO - Authentication (password) successful!
+2025-08-11 15:55:05,630 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 15:55:05,630 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 15:55:05,645 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:55:05,708 - INFO - Authentication (publickey) failed.
+2025-08-11 15:55:05,778 - INFO - Authentication (password) successful!
+2025-08-11 15:55:05,988 - ERROR - [192.168.2.136] Error: [sudo] password for sac: bash: line 1: publish: command not found
+2025-08-11 15:55:05,989 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 15:55:06,001 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 15:55:06,059 - INFO - Authentication (publickey) failed.
+2025-08-11 15:55:06,111 - INFO - Authentication (password) successful!
+2025-08-11 16:00:37,207 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 16:00:41,845 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 16:00:41,846 - INFO - Current time (UTC): 2025-08-11 10:30:41
+2025-08-11 16:00:41,846 - INFO - --- Starting new check cycle ---
+2025-08-11 16:00:42,413 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 16:00:42,413 - INFO - New ZIP files to process: 11082025.zip, 12082025.zip
+2025-08-11 16:00:42,452 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_160042
+2025-08-11 16:00:42,452 - INFO - Processing new file: 11082025.zip
+2025-08-11 16:00:42,469 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:00:42,624 - INFO - Authentication (password) successful!
+2025-08-11 16:00:42,746 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 16:00:42,753 - INFO - Renamed: 11082025.zip → 20250811.zip
+2025-08-11 16:00:43,133 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 16:00:43,136 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 16:00:43,582 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:00:43,788 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:00:43,944 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:00:44,363 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:00:44,593 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 16:00:44,892 - INFO - Unzipped locally: 20250811.zip
+2025-08-11 16:00:44,895 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_water_level_11082025_10AM.csv
+2025-08-11 16:00:45,615 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:00:45,900 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:00:46,112 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:00:46,627 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:00:46,924 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250811/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 16:00:46,955 - INFO - [chan 0] sftp session closed.
+2025-08-11 16:00:46,955 - INFO - All files processed and upload complete.
+2025-08-11 16:00:46,955 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 16:00:46,955 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 16:00:46,972 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:00:47,086 - INFO - Authentication (publickey) failed.
+2025-08-11 16:00:47,191 - INFO - Authentication (password) successful!
+2025-08-11 16:01:50,295 - INFO - [192.168.2.67] Output: this is targeted date 20250811
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250811
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250811/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_processed_20250811.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/binary_mask_20250811.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_mask_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_float_20250811.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif
+2025-08-11 16:01:50,295 - INFO - merger.sh completed successfully for 20250811.
+2025-08-11 16:01:50,295 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 16:01:50,307 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:01:50,365 - INFO - Authentication (publickey) failed.
+2025-08-11 16:01:50,417 - INFO - Authentication (password) successful!
+2025-08-11 16:01:53,615 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 16:01:53,616 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 16:01:53,631 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:01:53,742 - INFO - Authentication (publickey) failed.
+2025-08-11 16:01:53,811 - INFO - Authentication (password) successful!
+2025-08-11 16:01:54,034 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-11 16:01:54,035 - INFO - Executing merger.sh for 20250811 on 192.168.2.67...
+2025-08-11 16:01:54,046 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:01:54,104 - INFO - Authentication (publickey) failed.
+2025-08-11 16:01:54,156 - INFO - Authentication (password) successful!
+2025-08-11 16:04:29,960 - INFO - [192.168.2.67] Output: this is targeted date 20250811
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250811
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250811/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_processed_20250811.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/binary_mask_20250811.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250811/flood_mask_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_float_20250811.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250811/output_masked_binary_20250811.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250811/final_tif_20250811.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/11/output_masked_binary_20250811.tif
+2025-08-11 16:04:29,961 - INFO - merger.sh completed successfully for 20250811.
+2025-08-11 16:04:29,961 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 16:04:29,973 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:04:30,031 - INFO - Authentication (publickey) failed.
+2025-08-11 16:04:30,133 - INFO - Authentication (password) successful!
+2025-08-11 16:04:33,456 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 16:04:33,457 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 16:04:33,469 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:04:33,527 - INFO - Authentication (publickey) failed.
+2025-08-11 16:04:33,595 - INFO - Authentication (password) successful!
+2025-08-11 16:04:33,792 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-11 16:04:33,795 - INFO - Processing new file: 12082025.zip
+2025-08-11 16:04:33,811 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:04:33,965 - INFO - Authentication (password) successful!
+2025-08-11 16:04:34,101 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 16:04:34,104 - INFO - Renamed: 12082025.zip → 20250812.zip
+2025-08-11 16:04:34,488 - INFO - Unzipped locally: 20250812.zip
+2025-08-11 16:04:35,471 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:04:35,687 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:04:35,855 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:04:36,295 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:04:36,540 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 16:04:36,542 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_water_level_12082025_8AM.csv
+2025-08-11 16:04:36,572 - INFO - [chan 0] sftp session closed.
+2025-08-11 16:04:36,572 - INFO - All files processed and upload complete.
+2025-08-11 16:04:36,572 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 16:04:36,572 - INFO - Executing merger.sh for 20250812 on 192.168.2.67...
+2025-08-11 16:04:36,585 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:04:36,644 - INFO - Authentication (publickey) failed.
+2025-08-11 16:04:36,696 - INFO - Authentication (password) successful!
+2025-08-11 16:04:46,864 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 16:05:07,002 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 16:05:07,003 - INFO - Current time (UTC): 2025-08-11 10:35:07
+2025-08-11 16:05:07,003 - INFO - --- Starting new check cycle ---
+2025-08-11 16:05:07,577 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 16:05:07,577 - INFO - New ZIP files to process: 12082025.zip
+2025-08-11 16:05:07,617 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_160507
+2025-08-11 16:05:07,618 - INFO - Processing new file: 12082025.zip
+2025-08-11 16:05:07,635 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:05:07,788 - INFO - Authentication (password) successful!
+2025-08-11 16:05:07,911 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 16:05:07,918 - INFO - Renamed: 12082025.zip → 20250812.zip
+2025-08-11 16:05:08,295 - INFO - Unzipped locally: 20250812.zip
+2025-08-11 16:05:08,865 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:05:09,115 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:05:09,492 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:05:10,109 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:05:10,370 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 16:05:10,372 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_water_level_12082025_8AM.csv
+2025-08-11 16:05:10,702 - INFO - Unzipped locally: 20250812.zip
+2025-08-11 16:05:11,406 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:05:11,610 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:05:11,853 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:05:12,440 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:05:12,739 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-11 16:05:12,742 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250812/Ganga_water_level_12082025_8AM.csv
+2025-08-11 16:05:12,777 - INFO - [chan 0] sftp session closed.
+2025-08-11 16:05:12,778 - INFO - All files processed and upload complete.
+2025-08-11 16:05:12,778 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 16:05:12,778 - INFO - Executing merger.sh for 20250812 on 192.168.2.67...
+2025-08-11 16:05:12,791 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:05:12,851 - INFO - Authentication (publickey) failed.
+2025-08-11 16:05:12,903 - INFO - Authentication (password) successful!
+2025-08-11 16:06:07,082 - INFO - [192.168.2.67] Output: this is targeted date 20250812
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250812
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250812/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/flood_processed_20250812.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/binary_mask_20250812.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/flood_mask_20250812.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_binary_20250812.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_float_20250812.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250812/final_tif_20250812.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/12/output_masked_binary_20250812.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_binary_20250812.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250812/final_tif_20250812.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/12/output_masked_binary_20250812.tif
+2025-08-11 16:06:07,082 - INFO - merger.sh completed successfully for 20250812.
+2025-08-11 16:06:07,082 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 16:06:07,092 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:06:07,148 - INFO - Authentication (publickey) failed.
+2025-08-11 16:06:07,250 - INFO - Authentication (password) successful!
+2025-08-11 16:06:54,563 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+{'driver': 'GTiff', 'dtype': 'uint8', 'nodata': 255.0, 'width': 32236, 'height': 10661, 'count': 1, 'crs': CRS.from_wkt('GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]'), 'transform': Affine(8.983152841195215e-05, 0.0, 85.21140307419704,
+       0.0, -8.983152841195215e-05, 25.685708581886303), 'blockxsize': 32236, 'blockysize': 1, 'tiled': False, 'interleave': 'band'}
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif is processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 16:06:54,563 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 16:06:54,576 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:06:54,647 - INFO - Authentication (publickey) failed.
+2025-08-11 16:06:54,714 - INFO - Authentication (password) successful!
+2025-08-11 16:06:54,925 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-11 16:06:54,926 - INFO - Executing merger.sh for 20250812 on 192.168.2.67...
+2025-08-11 16:06:54,938 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:06:54,996 - INFO - Authentication (publickey) failed.
+2025-08-11 16:06:55,048 - INFO - Authentication (password) successful!
+2025-08-11 16:07:39,618 - INFO - [192.168.2.67] Output: this is targeted date 20250812
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250812
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250812/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/flood_processed_20250812.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/binary_mask_20250812.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250812/flood_mask_20250812.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_binary_20250812.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_float_20250812.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250812/final_tif_20250812.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/12/output_masked_binary_20250812.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250812/output_masked_binary_20250812.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250812/final_tif_20250812.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/12/output_masked_binary_20250812.tif
+2025-08-11 16:07:39,619 - INFO - merger.sh completed successfully for 20250812.
+2025-08-11 16:07:39,619 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 16:07:39,630 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:07:39,688 - INFO - Authentication (publickey) failed.
+2025-08-11 16:07:39,740 - INFO - Authentication (password) successful!
+2025-08-11 16:07:42,939 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 16:07:42,939 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 16:07:42,953 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:07:43,017 - INFO - Authentication (publickey) failed.
+2025-08-11 16:07:43,088 - INFO - Authentication (password) successful!
+2025-08-11 16:07:43,325 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-11 16:07:43,327 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 16:08:43,327 - INFO - --- Starting new check cycle ---
+2025-08-11 16:08:43,894 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:09:43,895 - INFO - --- Starting new check cycle ---
+2025-08-11 16:09:44,474 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:10:44,474 - INFO - --- Starting new check cycle ---
+2025-08-11 16:10:45,057 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:11:45,057 - INFO - --- Starting new check cycle ---
+2025-08-11 16:11:45,670 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:12:45,671 - INFO - --- Starting new check cycle ---
+2025-08-11 16:12:46,240 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:13:46,240 - INFO - --- Starting new check cycle ---
+2025-08-11 16:13:46,822 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:14:46,823 - INFO - --- Starting new check cycle ---
+2025-08-11 16:14:47,409 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:15:13,488 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 16:19:02,953 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 16:19:02,953 - INFO - Current time (UTC): 2025-08-11 10:49:02
+2025-08-11 16:19:02,953 - INFO - --- Starting new check cycle ---
+2025-08-11 16:19:03,539 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 16:19:03,539 - INFO - New ZIP files to process: 08082025.zip
+2025-08-11 16:19:03,577 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_161903
+2025-08-11 16:19:03,577 - INFO - Processing new file: 08082025.zip
+2025-08-11 16:19:03,595 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:19:03,698 - INFO - Authentication (password) successful!
+2025-08-11 16:19:03,817 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 16:19:03,822 - INFO - Renamed: 08082025.zip → 20250808.zip
+2025-08-11 16:19:04,205 - INFO - Unzipped locally: 20250808.zip
+2025-08-11 16:19:04,463 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-4_Cat-8_upd.tif
+2025-08-11 16:19:04,468 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_water_level_08082025_11AM.csv
+2025-08-11 16:19:04,900 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:19:05,071 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:19:05,224 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:19:05,936 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:19:05,968 - INFO - [chan 0] sftp session closed.
+2025-08-11 16:19:05,969 - INFO - All files processed and upload complete.
+2025-08-11 16:19:05,969 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 16:19:05,969 - INFO - Executing merger.sh for 20250808 on 192.168.2.67...
+2025-08-11 16:19:05,982 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:19:06,080 - INFO - Authentication (publickey) failed.
+2025-08-11 16:19:06,183 - INFO - Authentication (password) successful!
+2025-08-11 16:19:58,022 - ERROR - [192.168.2.67] Error: Traceback (most recent call last):
+  File "/opt/vedas_env/script/projects/Bihar_Flood/merged_tif.py", line 305, in <module>
+    shutil.copy(output_path, dest1)
+  File "/home/isro/miniconda3/envs/geoentity_stats/lib/python3.9/shutil.py", line 428, in copy
+    copymode(src, dst, follow_symlinks=follow_symlinks)
+  File "/home/isro/miniconda3/envs/geoentity_stats/lib/python3.9/shutil.py", line 317, in copymode
+    chmod_func(dst, stat.S_IMODE(st.st_mode))
+PermissionError: [Errno 1] Operation not permitted: '/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif'
+2025-08-11 16:19:58,022 - ERROR - merger.sh failed for 20250808. Skipping post scripts.
+2025-08-11 16:19:58,025 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 16:20:20,289 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 16:24:17,520 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 16:24:17,520 - INFO - Current time (UTC): 2025-08-11 10:54:17
+2025-08-11 16:24:17,520 - INFO - --- Starting new check cycle ---
+2025-08-11 16:24:18,182 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 16:24:18,182 - INFO - No new ZIP files to process.
+2025-08-11 16:24:18,182 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 16:24:27,009 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-11 16:24:42,028 - INFO - 🚀 Starting repository monitoring...
+2025-08-11 16:24:42,029 - INFO - Current time (UTC): 2025-08-11 10:54:42
+2025-08-11 16:24:42,029 - INFO - --- Starting new check cycle ---
+2025-08-11 16:24:42,659 - INFO - Initial startup. Current commit: 596b14635f1aa5230bf12ce717d5bdc863180fe8
+2025-08-11 16:24:42,659 - INFO - New ZIP files to process: 08082025.zip
+2025-08-11 16:24:42,697 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250811_162442
+2025-08-11 16:24:42,697 - INFO - Processing new file: 08082025.zip
+2025-08-11 16:24:42,717 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:24:42,818 - INFO - Authentication (password) successful!
+2025-08-11 16:24:42,923 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-11 16:24:42,927 - INFO - Renamed: 08082025.zip → 20250808.zip
+2025-08-11 16:24:43,309 - INFO - Unzipped locally: 20250808.zip
+2025-08-11 16:24:43,728 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-4_Cat-8_upd.tif
+2025-08-11 16:24:43,730 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_water_level_08082025_11AM.csv
+2025-08-11 16:24:44,196 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-11 16:24:44,376 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-11 16:24:44,538 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-11 16:24:44,962 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-11 16:24:44,987 - INFO - [chan 0] sftp session closed.
+2025-08-11 16:24:44,988 - INFO - All files processed and upload complete.
+2025-08-11 16:24:44,988 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-11 16:24:44,988 - INFO - Executing merger.sh for 20250808 on 192.168.2.67...
+2025-08-11 16:24:45,000 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:24:45,062 - INFO - Authentication (publickey) failed.
+2025-08-11 16:24:45,113 - INFO - Authentication (password) successful!
+2025-08-11 16:27:14,277 - INFO - [192.168.2.67] Output: this is targeted date 20250808
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250808
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250808/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/flood_processed_20250808.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/binary_mask_20250808.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/flood_mask_20250808.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_binary_20250808.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_float_20250808.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250808/final_tif_20250808.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/08/output_masked_binary_20250808.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_binary_20250808.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250808/final_tif_20250808.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/08/output_masked_binary_20250808.tif
+2025-08-11 16:27:14,277 - INFO - merger.sh completed successfully for 20250808.
+2025-08-11 16:27:14,277 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-11 16:27:14,290 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:27:14,348 - INFO - Authentication (publickey) failed.
+2025-08-11 16:27:14,400 - INFO - Authentication (password) successful!
+2025-08-11 16:27:17,883 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-11 16:27:17,883 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-11 16:27:17,904 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-11 16:27:17,963 - INFO - Authentication (publickey) failed.
+2025-08-11 16:27:18,030 - INFO - Authentication (password) successful!
+2025-08-11 16:27:18,274 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-11 16:27:18,277 - INFO - Sleeping for 60 seconds... 😴
+2025-08-11 16:28:18,277 - INFO - --- Starting new check cycle ---
+2025-08-11 16:28:18,919 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:29:18,919 - INFO - --- Starting new check cycle ---
+2025-08-11 16:29:19,483 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:30:19,483 - INFO - --- Starting new check cycle ---
+2025-08-11 16:30:20,067 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:31:20,068 - INFO - --- Starting new check cycle ---
+2025-08-11 16:31:20,668 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:32:20,668 - INFO - --- Starting new check cycle ---
+2025-08-11 16:32:21,246 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:33:21,246 - INFO - --- Starting new check cycle ---
+2025-08-11 16:33:21,829 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:34:21,829 - INFO - --- Starting new check cycle ---
+2025-08-11 16:34:22,434 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:35:22,434 - INFO - --- Starting new check cycle ---
+2025-08-11 16:35:23,006 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:36:23,007 - INFO - --- Starting new check cycle ---
+2025-08-11 16:36:23,687 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:37:23,687 - INFO - --- Starting new check cycle ---
+2025-08-11 16:37:24,303 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:38:24,303 - INFO - --- Starting new check cycle ---
+2025-08-11 16:38:24,954 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:39:24,954 - INFO - --- Starting new check cycle ---
+2025-08-11 16:39:25,542 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:40:25,542 - INFO - --- Starting new check cycle ---
+2025-08-11 16:40:26,156 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:41:26,157 - INFO - --- Starting new check cycle ---
+2025-08-11 16:41:26,726 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:42:26,726 - INFO - --- Starting new check cycle ---
+2025-08-11 16:42:27,307 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:43:27,307 - INFO - --- Starting new check cycle ---
+2025-08-11 16:43:27,889 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:44:27,889 - INFO - --- Starting new check cycle ---
+2025-08-11 16:44:28,470 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 16:45:28,470 - INFO - --- Starting new check cycle ---
+2025-08-11 16:45:29,062 - INFO - No commit changes detected. Skipping repository pull check.
