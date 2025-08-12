@@ -841,3 +841,143 @@ Monitoring stopped by user. Goodbye! 👋
 2025-08-11 17:31:19,966 - INFO - ✅ Repository UPDATED! New commit: 70b3e641b1c11fe66aa95973d3f29585e95e682d
 2025-08-11 17:31:19,967 - INFO - No new ZIP files to process.
 2025-08-11 17:31:19,967 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-11 17:31:20,644 - CRITICAL - Error in monitoring loop: Command '['git', '-C', '/opt/temp_data', 'push', 'origin', 'main']' returned non-zero exit status 1.
+2025-08-11 17:31:20,648 - INFO - Retrying after a 30 Minutes delay...
+2025-08-11 18:01:20,649 - INFO - --- Starting new check cycle ---
+2025-08-11 18:01:21,756 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 18:31:21,757 - INFO - --- Starting new check cycle ---
+2025-08-11 18:31:22,381 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 19:01:22,382 - INFO - --- Starting new check cycle ---
+2025-08-11 19:01:22,966 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 19:31:22,966 - INFO - --- Starting new check cycle ---
+2025-08-11 19:31:23,578 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 20:01:23,578 - INFO - --- Starting new check cycle ---
+2025-08-11 20:01:24,176 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 20:31:24,177 - INFO - --- Starting new check cycle ---
+2025-08-11 20:31:25,200 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 21:01:25,201 - INFO - --- Starting new check cycle ---
+2025-08-11 21:01:25,847 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 21:31:25,848 - INFO - --- Starting new check cycle ---
+2025-08-11 21:31:26,508 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 22:01:26,509 - INFO - --- Starting new check cycle ---
+2025-08-11 22:01:27,108 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 22:31:27,108 - INFO - --- Starting new check cycle ---
+2025-08-11 22:31:28,095 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 23:01:28,096 - INFO - --- Starting new check cycle ---
+2025-08-11 23:01:28,828 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-11 23:31:28,828 - INFO - --- Starting new check cycle ---
+2025-08-11 23:31:29,436 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 00:01:29,437 - INFO - --- Starting new check cycle ---
+2025-08-12 00:01:30,064 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 00:31:30,064 - INFO - --- Starting new check cycle ---
+2025-08-12 00:31:30,695 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 01:01:30,696 - INFO - --- Starting new check cycle ---
+2025-08-12 01:01:31,295 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 01:31:31,295 - INFO - --- Starting new check cycle ---
+2025-08-12 01:31:31,908 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 02:01:31,908 - INFO - --- Starting new check cycle ---
+2025-08-12 02:01:32,492 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 02:31:32,493 - INFO - --- Starting new check cycle ---
+2025-08-12 02:31:33,082 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 03:01:33,083 - INFO - --- Starting new check cycle ---
+2025-08-12 03:01:33,671 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 03:31:33,672 - INFO - --- Starting new check cycle ---
+2025-08-12 03:31:34,336 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 04:01:34,336 - INFO - --- Starting new check cycle ---
+2025-08-12 04:01:34,948 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 04:31:34,948 - INFO - --- Starting new check cycle ---
+2025-08-12 04:31:35,578 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 05:01:35,578 - INFO - --- Starting new check cycle ---
+2025-08-12 05:01:36,193 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 05:31:36,193 - INFO - --- Starting new check cycle ---
+2025-08-12 05:31:36,799 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 06:01:36,800 - INFO - --- Starting new check cycle ---
+2025-08-12 06:01:37,396 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 06:31:37,396 - INFO - --- Starting new check cycle ---
+2025-08-12 06:31:38,402 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 07:01:38,403 - INFO - --- Starting new check cycle ---
+2025-08-12 07:01:39,043 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 07:31:39,043 - INFO - --- Starting new check cycle ---
+2025-08-12 07:31:39,638 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 08:01:39,639 - INFO - --- Starting new check cycle ---
+2025-08-12 08:01:40,201 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 08:31:40,201 - INFO - --- Starting new check cycle ---
+2025-08-12 08:31:40,853 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 09:01:40,853 - INFO - --- Starting new check cycle ---
+2025-08-12 09:01:41,437 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 09:31:41,437 - INFO - --- Starting new check cycle ---
+2025-08-12 09:31:42,072 - INFO - No commit changes detected. Skipping repository pull check.
+2025-08-12 09:42:04,533 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-12 09:42:07,410 - INFO - 🚀 Starting repository monitoring...
+2025-08-12 09:42:07,411 - INFO - Current time (UTC): 2025-08-12 04:12:07
+2025-08-12 09:42:07,411 - INFO - --- Starting new check cycle ---
+2025-08-12 09:42:07,990 - INFO - Initial startup. Current commit: 70b3e641b1c11fe66aa95973d3f29585e95e682d
+2025-08-12 09:42:07,990 - INFO - New ZIP files to process: 08082025.zip
+2025-08-12 09:42:08,054 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250812_094207
+2025-08-12 09:42:08,054 - INFO - Processing new file: 08082025.zip
+2025-08-12 09:42:08,076 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-12 09:42:08,279 - INFO - Authentication (password) successful!
+2025-08-12 09:42:08,411 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-12 09:42:08,417 - INFO - Renamed: 08082025.zip → 20250808.zip
+2025-08-12 09:42:08,799 - INFO - Unzipped locally: 20250808.zip
+2025-08-12 09:42:09,119 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-4_Cat-8_upd.tif
+2025-08-12 09:42:09,129 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_water_level_08082025_11AM.csv
+2025-08-12 09:42:09,926 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-12 09:42:10,203 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-12 09:42:10,497 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-12 09:42:11,529 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250808/Ganga_Flood_Sec-1_Cat-10_upd.tif
+2025-08-12 09:42:11,561 - INFO - [chan 0] sftp session closed.
+2025-08-12 09:42:11,562 - INFO - All files processed and upload complete.
+2025-08-12 09:42:11,562 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-12 09:42:11,562 - INFO - Executing merger.sh for 20250808 on 192.168.2.67...
+2025-08-12 09:42:11,580 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-12 09:42:11,687 - INFO - Authentication (publickey) failed.
+2025-08-12 09:42:11,793 - INFO - Authentication (password) successful!
+2025-08-12 09:43:42,165 - INFO - [192.168.2.67] Output: this is targeted date 20250808
+Processing complete. Output saved in: /opt/vedas_content/Bihar_ganga_flood/stage1_set_nodata/20250808
+Merged GeoTIFF saved to: /opt/vedas_content/Bihar_ganga_flood/stage2_merged/20250808/merged.tif
+Saved:
+  Float raster: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/flood_processed_20250808.tif
+  Binary mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/binary_mask_20250808.tif
+  Flood mask: /opt/vedas_content/Bihar_ganga_flood/stage3_sar_masked/20250808/flood_mask_20250808.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_binary_20250808.tif
+Masked raster saved to: /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_float_20250808.tif
+Processing rasters...
+Successfully created modified file at: /opt/vedas_content/Bihar_ganga_flood/Final_result/20250808/final_tif_20250808.tif
+Checking file at geoentity destination folder:  /data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif True
+Checking file at ridam destination folder:  /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/08/output_masked_binary_20250808.tif True
+Copied:
+- /opt/vedas_content/Bihar_ganga_flood/output/20250808/output_masked_binary_20250808.tif → /data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif
+- /opt/vedas_content/Bihar_ganga_flood/Final_result/20250808/final_tif_20250808.tif → /home/isro/68_data/PROCESSED_DATA_THEMES/T1/T1S2/flood_inun_prob_for_ganga_dashboard_T1S2P8/2025/08/08/output_masked_binary_20250808.tif
+2025-08-12 09:43:42,165 - INFO - merger.sh completed successfully for 20250808.
+2025-08-12 09:43:42,165 - INFO - ------ Starting Ingestion On geoentity Stat ------
+2025-08-12 09:43:42,179 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-12 09:43:42,238 - INFO - Authentication (publickey) failed.
+2025-08-12 09:43:42,292 - INFO - Authentication (password) successful!
+2025-08-12 09:43:45,366 - INFO - [192.168.2.67] Output: [Info]: ======Geo Entity Stats Generation Module is Started.======
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is started---
+[Info]: ---GeoEntity fetching for GeoEntity_Source_ID:31 is completed---
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2024/12/31/final_tif_20241231.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/05/final_tif_20250805.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/11/final_tif_20250811.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/08/final_tif_20250808.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/12/final_tif_20250812.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/09/final_tif_20250809.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/10/final_tif_20250810.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/Inundation/2025/08/07/final_tif_20250807.tif is already processed.
+[Info]: ---Stats Generation for Parameter:WRF_IP_Ganga is completed.---
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is started.---
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/08/02/actual_vv_vh_final_mask_20250802.tif is already processed.
+[Info]: Parameter File:/data/Mihir/Flood_Bihar/SAR/2025/07/24/actual_vv_vh_final_mask_20250724.tif is already processed.
+[Info]: ---Stats Generation for Parameter:Actual_Flood_S1 is completed.---
+[Info]: ======Geo Entity Stats Generation Module is Completed.======
+2025-08-12 09:43:45,366 - INFO - ------ Starting Ingestion On Ridam ID T1S2P8 ------
+2025-08-12 09:43:45,385 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-12 09:43:45,446 - INFO - Authentication (publickey) failed.
+2025-08-12 09:43:45,580 - INFO - Authentication (password) successful!
+2025-08-12 09:43:45,880 - ERROR - [192.168.2.136] Error: [sudo] password for sac:
+2025-08-12 09:43:45,884 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 09:43:45,884 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 09:43:45,884 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
