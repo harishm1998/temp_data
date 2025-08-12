@@ -43775,3 +43775,9 @@ Monitoring stopped by user. Goodbye! 👋
 2025-08-12 15:12:59,005 - INFO - Sleeping for 1800 seconds... 😴
 2025-08-12 15:12:59,005 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
 2025-08-12 15:12:59,005 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-12 15:25:03,870 - INFO - --- Starting new check cycle ---
+2025-08-12 15:25:04,736 - INFO - ✅ Repository UPDATED! New commit: 9d4bb45492808c3e6d706f65a13d1fe4de926c03
+2025-08-12 15:25:04,737 - INFO - No new ZIP files to process.
+2025-08-12 15:25:04,737 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 15:25:04,737 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 15:25:04,737 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
