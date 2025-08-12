@@ -1,1 +1,1 @@
-restart
+stop
