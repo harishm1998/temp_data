@@ -1293,3 +1293,43 @@ Monitoring stopped by user. Goodbye! 👋
 2025-08-12 10:04:39,593 - INFO - Sleeping for 1800 seconds... 😴
 2025-08-12 10:04:39,593 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
 2025-08-12 10:04:39,593 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-12 10:04:40,284 - CRITICAL - Error in monitoring loop: Command '['git', '-C', '/opt/temp_data', 'push', 'origin', 'main']' returned non-zero exit status 1.
+2025-08-12 10:04:40,288 - INFO - Retrying after a 30 Minutes delay...
+2025-08-12 10:08:04,053 - INFO - 🚀 Starting repository monitoring...
+2025-08-12 10:08:04,054 - INFO - Current time (UTC): 2025-08-12 04:38:04
+2025-08-12 10:08:04,054 - INFO - --- Starting new check cycle ---
+2025-08-12 10:08:04,633 - INFO - Initial startup. Current commit: 3d6755a7d08019bf7886d0dde41fa3d97a66f161
+2025-08-12 10:08:04,634 - INFO - No new ZIP files to process.
+2025-08-12 10:08:04,634 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 10:08:04,634 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 10:08:04,634 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-12 10:08:05,454 - CRITICAL - Error in monitoring loop: Command '['git', '-C', '/opt/temp_data', 'pull', 'origin', 'main']' returned non-zero exit status 128.
+2025-08-12 10:08:05,458 - INFO - Retrying after a 30 Minutes delay...
+2025-08-12 10:09:37,198 - INFO - 🚀 Starting repository monitoring...
+2025-08-12 10:09:37,198 - INFO - Current time (UTC): 2025-08-12 04:39:37
+2025-08-12 10:09:37,198 - INFO - --- Starting new check cycle ---
+2025-08-12 10:09:37,787 - INFO - Initial startup. Current commit: 3d6755a7d08019bf7886d0dde41fa3d97a66f161
+2025-08-12 10:09:37,787 - INFO - No new ZIP files to process.
+2025-08-12 10:09:37,787 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 10:09:37,787 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 10:09:37,787 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-12 10:09:38,351 - CRITICAL - Error in monitoring loop: Command '['git', '-C', '/opt/temp_data', 'pull', 'origin', 'main']' returned non-zero exit status 128.
+2025-08-12 10:09:38,355 - INFO - Retrying after a 30 Minutes delay...
+2025-08-12 10:10:10,121 - INFO - 🚀 Starting repository monitoring...
+2025-08-12 10:10:10,122 - INFO - Current time (UTC): 2025-08-12 04:40:10
+2025-08-12 10:10:10,122 - INFO - --- Starting new check cycle ---
+2025-08-12 10:10:10,704 - INFO - Initial startup. Current commit: 3d6755a7d08019bf7886d0dde41fa3d97a66f161
+2025-08-12 10:10:10,704 - INFO - No new ZIP files to process.
+2025-08-12 10:10:10,704 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 10:10:10,704 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 10:10:10,704 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-12 10:10:11,266 - CRITICAL - Error in monitoring loop: Command '['git', '-C', '/opt/temp_data', 'pull', 'origin', 'main']' returned non-zero exit status 128.
+2025-08-12 10:10:11,270 - INFO - Retrying after a 30 Minutes delay...
+2025-08-12 10:12:43,028 - INFO - 🚀 Starting repository monitoring...
+2025-08-12 10:12:43,029 - INFO - Current time (UTC): 2025-08-12 04:42:43
+2025-08-12 10:12:43,029 - INFO - --- Starting new check cycle ---
+2025-08-12 10:12:43,593 - INFO - Initial startup. Current commit: 3d6755a7d08019bf7886d0dde41fa3d97a66f161
+2025-08-12 10:12:43,593 - INFO - No new ZIP files to process.
+2025-08-12 10:12:43,594 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-12 10:12:43,594 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
+2025-08-12 10:12:43,594 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
