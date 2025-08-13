@@ -43870,3 +43870,34 @@ Monitoring stopped by user. Goodbye! 👋
 2025-08-13 13:05:37,728 - INFO - Sleeping for 1800 seconds... 😴
 2025-08-13 13:05:37,729 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906%3B907&from_time=1683503800
 2025-08-13 13:05:37,729 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
+2025-08-13 13:24:32,941 - INFO - 
+Monitoring stopped by user. Goodbye! 👋
+2025-08-13 13:24:37,385 - INFO - 🚀 Starting repository monitoring...
+2025-08-13 13:24:37,386 - INFO - Current time (UTC): 2025-08-13 07:54:37
+2025-08-13 13:24:37,386 - INFO - --- Starting new check cycle ---
+2025-08-13 13:24:38,427 - INFO - Initial startup. Current commit: 63777399272e95e2b7418b2e173747ad5cb99974
+2025-08-13 13:24:38,428 - INFO - New ZIP files to process: 13082025.zip
+2025-08-13 13:24:38,524 - INFO - Backup created at /home/sac/Documents/new_bihar/bihar_flood_Zip_backup_20250813_132438
+2025-08-13 13:24:38,524 - INFO - Processing new file: 13082025.zip
+2025-08-13 13:24:38,540 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-13 13:24:38,644 - INFO - Authentication (password) successful!
+2025-08-13 13:24:38,764 - INFO - [chan 0] Opened sftp connection (server version 3)
+2025-08-13 13:24:38,768 - INFO - Renamed: 13082025.zip → 20250813.zip
+2025-08-13 13:24:39,126 - INFO - Unzipped locally: 20250813.zip
+2025-08-13 13:24:39,533 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_Flood_Sec-1_Cat-9_upd.tif
+2025-08-13 13:24:40,201 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_Flood_Sec-2_Cat-10_upd.tif
+2025-08-13 13:24:40,380 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_Flood_Sec-5_Cat-10_upd.tif
+2025-08-13 13:24:40,548 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_Flood_Sec-3_Cat-9_upd.tif
+2025-08-13 13:24:40,554 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_water_level_13082025_10AM.csv
+2025-08-13 13:24:40,785 - INFO - Uploaded to SFTP: /opt/vedas_content/Bihar_ganga_flood/Input/20250813/Ganga_Flood_Sec-4_Cat-9_upd.tif
+2025-08-13 13:24:40,810 - INFO - [chan 0] sftp session closed.
+2025-08-13 13:24:40,810 - INFO - All files processed and upload complete.
+2025-08-13 13:24:40,810 - INFO - Renaming, unzipping and uploading from /home/sac/Documents/new_bihar/bihar_flood_Zip/_temp_process to 192.168.2.67:/opt/vedas_content/Bihar_ganga_flood/Input
+2025-08-13 13:24:40,811 - INFO - Executing merger.sh for 20250813 on 192.168.2.67...
+2025-08-13 13:24:40,824 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2025-08-13 13:24:40,906 - INFO - Authentication (publickey) successful!
+2025-08-13 13:25:30,860 - ERROR - SSH connection to 192.168.2.67 failed: name 'error' is not defined
+2025-08-13 13:25:30,862 - ERROR - merger.sh failed for 20250813. Skipping post scripts.
+2025-08-13 13:25:30,864 - INFO - Sleeping for 1800 seconds... 😴
+2025-08-13 13:25:30,864 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906&from_time=1683503800
+2025-08-13 13:25:30,864 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
