@@ -1,1 +1,1 @@
-stop
+restart sac@123
