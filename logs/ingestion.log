@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d320973876b26d9a1f29a15bc7f7b956075f30e4e150ee8772eda40cc830b8c
-size 46174493
+2026-07-14 14:51:12,005 - INFO - 🚀 Starting repository monitoring...
+2026-07-14 14:51:12,005 - INFO - Current time (UTC): 2026-07-14 09:21:12
+2026-07-14 14:51:12,005 - INFO - --- Starting new check cycle ---
+2026-07-14 14:51:12,005 - INFO - No new ZIP files to process.
+2026-07-14 14:51:12,005 - INFO - Sleeping for 1800 seconds... 😴
+2026-07-14 14:51:12,005 - INFO - to check latest geoentity Entries : https://vedas.sac.gov.in/geoentity-services/api/geoentity-sources/31/params/timestamps?params=906&from_time=1683503800
+2026-07-14 14:51:12,005 - INFO - to check latest ridam Entries : https://vedas.sac.gov.in/ridam_server3/meta/dataset_timestamp?prefix=T1S2P8
